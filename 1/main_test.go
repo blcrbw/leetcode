@@ -1,4 +1,4 @@
-package _507
+package main
 
 import (
 	"testing"
